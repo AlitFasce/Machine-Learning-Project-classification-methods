@@ -4,7 +4,7 @@ _ PROYECTO INDIVIDUAL Nº2 para Henry_ Diciembre 2022 _ Machine Learning
 
 Este es un proyecto de Machine Learning para predecir si una estadía de un paciente en un hospital determinado será larga o corta, utilizando la información disponible en datasets. Se aplican varios modelos y se compara la performance de estos. Como es un proyecto de aprendizaje les comparto la mayor cantidad de información posible, estrategia original y final; y porque tomé las distintas decisiones. 
 
-![imagen](https://www.careerguide.com/career/wp-content/uploads/2020/03/Floating-head-for-GIF-1.gif.gif)
+![imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmetasdigitais.com.br%2Ftags%2Fagencia-marketing-digital%2F&psig=AOvVaw3iKbGCG8gpsXlRsZFVhwgH&ust=1671160087255000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiPmc3S-vsCFQAAAAAdAAAAABAh)
 
 
 ## **Introducción**
@@ -64,13 +64,13 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
 
     - Carpeta: Datasets
         - hospitalizaciones_test.csv (archivo utilizado unicamente para las predicciones)
-         - hospitalizaciones_train.csv (archivo raw de trabajo)
+        - hospitalizaciones_train.csv (archivo raw de trabajo)
 
 
 - Logistica
     - archivo jupiter Notebook (con anotaciones en markdown de los pasos realizados)
 	
-    - Carpeta: csv_predicciones
+    - Carpeta: csv_predicciones - IN PROGRESS
 		- alitfasce.csv (archivo generado luego de estimación por logistica)
 
 
@@ -79,25 +79,25 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
 	
     - Carpeta: csv_predicciones
 		- alitfasce.csv (archivo generado luego de estimación por k-vecinos)
+    - Modelos entrenados (3 differentes)
 
 
 - Arbol_de_decision
     - archivo jupiter Notebook (con anotaciones en markdown de los pasos realizados)
 	
-    - Carpeta: csv_predicciones
+    - Carpeta: csv_predicciones - IN PROGRESS
 		- alitfasce.csv (archivo generado luego de estimación por Arbol_de_decision)
 
 - Red_Tensorflow
     - archivo jupiter Notebook (con anotaciones en markdown de los pasos realizados)
 	
-    - Carpeta: csv_predicciones
+    - Carpeta: csv_predicciones - IN PROGRESS
 		- alitfasce.csv (archivo generado luego de estimación por DNN)
 
 
  Archivos globales: 
 
 -	README
--   
 
 ## **Herramientas utilizadas y documentacion**
 
