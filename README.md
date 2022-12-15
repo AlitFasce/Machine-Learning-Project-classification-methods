@@ -72,7 +72,7 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
 - Logistica
     - archivo jupiter Notebook (con anotaciones en markdown de los pasos realizados)
 	
-    - Carpeta: csv_predicciones - IN PROGRESS
+    - Carpeta: csv_predicciones 
 		- alitfasce.csv (archivo generado luego de estimación por logistica)
 
 
@@ -87,7 +87,7 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
 - Arbol_de_decision
     - archivo jupiter Notebook (con anotaciones en markdown de los pasos realizados)
 	
-    - Carpeta: csv_predicciones - IN PROGRESS
+    - Carpeta: csv_predicciones 
 		- alitfasce.csv (archivo generado luego de estimación por Arbol_de_decision)
 
 - Red_Tensorflow
