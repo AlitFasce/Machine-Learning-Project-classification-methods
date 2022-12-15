@@ -34,6 +34,8 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
 
 *considero mejor, aquel dataset que balancea las metricas y por ende los niveles de falsos positivos y falsos negativos, de la matriz de confusión, intentado que ambos se mantengan relativamente bajos. 
 
+- SE UTILIZA NOTION para gestion del projecto [ver tablero de gestion de proyecto] (https://www.notion.so/e90a08753ab344d19bf21e934f5646a4?v=cdeed599f61749c49aaf4385540363c3)
+
 ## Pasos realizados 
 
 - Análisis exploratorio de los datos (EDA).
