@@ -4,7 +4,7 @@ _ PROYECTO INDIVIDUAL Nº2 para Henry_ Diciembre 2022 _ Machine Learning
 
 Este es un proyecto de Machine Learning para predecir si una estadía de un paciente en un hospital determinado será larga o corta, utilizando la información disponible en datasets. Se aplican varios modelos y se compara la performance de estos. Como es un proyecto de aprendizaje les comparto la mayor cantidad de información posible, estrategia original y final; y porque tomé las distintas decisiones. 
 
-![imagen]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fmetasdigitais.com.br%2Ftags%2Fagencia-marketing-digital%2F&psig=AOvVaw3iKbGCG8gpsXlRsZFVhwgH&ust=1671160087255000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiPmc3S-vsCFQAAAAAdAAAAABAh](https://metasdigitais.com.br/wp-content/uploads/2020/04/marketing-digital-para-pequenas-e-medias-empresas.jpg))
+![imagen](https://metasdigitais.com.br/wp-content/uploads/2020/04/marketing-digital-para-pequenas-e-medias-empresas.jpg)
 
 
 ## **Introducción**
