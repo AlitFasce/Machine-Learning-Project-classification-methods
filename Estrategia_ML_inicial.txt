@@ -1,0 +1,25 @@
+ESTATEGIA DE ABORDAJE 
+
+- Se propone: 
+	1- realizar el EDA
+	2- pasar las columnas categóricas a numéricas
+	3- transformar al columna estacia en días a una variable categórica (numérica 1-0), teniendo en cuenta, 
+	sí la estacia es menor o mayor a 8 días. 
+	4- analizar la correlacion entre las variables, considernando como variable label o y a estancia en días. 
+	5- eliminar todas las columnas que tengan baja correlación 
+	6- aplicar un modelo de k-vecinos 
+	7- optimizar su k 
+	8- optimizar el entregamiento por validacion cruzada
+	9- realizar la matriz de confusión y mostrar el accuracy, recall y precision 
+	10- aplicar un modelo de arbol de decision 
+	11- optimizar el nivel de profundidad del mismo
+	12- optimizar el entregamiento por validación cruzada
+	13- realizar la matriz de confusión y mostrar el accuracy, recall y precision 
+	14- seleccionar el método más conveniente considerando el balance entre accuracy y recall
+	15- incorporar pipeline al proceso _ se evaluan los dos modelos por separado y en conjunto, para seleccionar el mejor
+
+- Como extra: 
+	- Realizar la documentacion por Notion 
+	- Se podría trabajar en Colab con Tensorflow que cuenta con 
+	un modelo de redes neuronales para clasificacion a dos capas. 
+
