@@ -126,4 +126,6 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
     *DNN clasifier https://www.tensorflow.org/api_docs/python/tf/estimator/DNNClassifier
 
     *Auto Gluon https://auto.gluon.ai/stable/index.html
+    
+    *Notion https://www.notion.so/
 
