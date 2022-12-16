@@ -95,6 +95,11 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
 	
     - Carpeta: csv_predicciones - IN PROGRESS
 		- alitfasce.csv (archivo generado luego de estimación por DNN)
+- AutoGluon
+    - archivo jupiter Notebook (exploración de la herramienta)
+	
+    - modelo entrenado 
+	
 
 
  Archivos globales: 
