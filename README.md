@@ -104,7 +104,8 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
 
  Archivos globales: 
 
--	README
+-	Pipeline_columnas_ML
+- 	README
 
 ## **Herramientas utilizadas y documentacion**
 
