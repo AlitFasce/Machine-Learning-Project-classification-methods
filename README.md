@@ -25,12 +25,12 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
 - El objetivo de este trabajo es lograr la estimación de un problema de clasificación mediante modelos de Machine Learning (ML). 
 
 - Mi abordaje personal tiene dos puntos importantes:
-    - el primero, de aprendizaje, basado en el armado de una estratégia incial y como esta fue mutando debido al descubrimiento de herramientas o mejores criterios de gestion de los datos.
+    - el primero, de aprendizaje, basado en el armado de una estratégia incial y como esta fue mutando debido al descubrimiento de herramientas o mejores criterios de gestion de los datos. [ver estratégia final](https://www.notion.so/Estrat-gia-Final-9d439e9912884e3bace510de16244522)
     - la segunda, más técnica, enfocada en comenzar analizando el dataset, luego transformar los datos, analizar la correlación e implementar 3 modelos de ML que permitan obtener predicciones, finalmente elegir entre el mejor* de estos (se presenta la estrategia incial y una final como archivos txt).
 
 - Es importante tener en cuenta que se trabajó en Colab, ya que muchos de los procesos de entrenamiento consumian gran capacidad de computo. 
 
-- Finalmente, se realizó un intento de implementar una red neuronal con 2 capas en Tensorflow (tambien realizado en Colab)
+- Finalmente, se realizó un intento de implementar una red neuronal con 2 capas en Tensorflow (tambien realizado en Colab) -IN PROGRESS
 
 *considero mejor, aquel dataset que balancea las metricas y por ende los niveles de falsos positivos y falsos negativos, de la matriz de confusión, intentado que ambos se mantengan relativamente bajos. 
 
